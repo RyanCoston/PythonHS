@@ -1,5 +1,7 @@
-print("Whagwan")
+print("Hi I'm Ryan")
 
-age = 89439209245
-
-ergeewfdrgdr
+def newSub():
+    print("Hi")
+    print("We all live in a")
+    print("Yellow Submarine")
+newSub()
