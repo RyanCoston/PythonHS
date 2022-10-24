@@ -1,1 +1,1 @@
-Python edit file
+print("Whagwan")
