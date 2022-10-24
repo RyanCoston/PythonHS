@@ -1,3 +1,4 @@
-This is a new file
- I hope this is ok
- wbe;fbw;flrwc
+print("this is the first line)"
+age = 45
+if age > 67:
+print("Old")
